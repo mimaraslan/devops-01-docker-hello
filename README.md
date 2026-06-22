@@ -1,5 +1,19 @@
-# DevOps
-## Docker Demo
+# DevOps Pipeline
+
+## CI/CD Evreni
+
+```
+
+CI/CD:           (Jenkins, Git,  GitHub, GitOps,  GitHub Actions,    GitLab, GitLab CI,    Bitbucket, Bamboo)
+Scripting        (Python, Bash, PowerShell)
+Containers:      (Docker)
+Orchestration:   (Kubernetes, Helm, ArgoCD)
+Cloud            (AWS, Azure, GCP)
+Virtualization:  (VMware, VirtualBox)
+IaC:             (Terraform, Ansible, CloudFormation)
+Monitoring:      (Prometheus, Grafana, ELK)
+```
+---
 
 ### Dockerfile demo projesi
 
