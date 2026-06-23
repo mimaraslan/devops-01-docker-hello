@@ -11,7 +11,7 @@
     </parent>
     <groupId>com.mimaraslan</groupId>
     <artifactId>devops-01-docker-hello</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.1</version>
     <name>devops-01-docker-hello</name>
     <description>devops-01-docker-hello</description>
     <url/>
