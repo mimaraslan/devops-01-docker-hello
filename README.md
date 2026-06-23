@@ -10,7 +10,7 @@ Spring Boot tabanlı basit bir uygulamanın Docker imajına paketlenmesini göst
 | Framework      | Spring Boot 4.0.6              |
 | Build aracı    | Maven                          |
 | Uygulama portu | 8080                           |
-| JAR çıktısı    | `target/devops-01-docker-hello-1.0.7.jar` |
+| JAR çıktısı    | `target/devops-01-docker-hello-1.0.1.jar` |
 
 ## CI/CD Evreni
 
@@ -49,12 +49,12 @@ Windows PowerShell:
 .\mvnw.cmd clean package
 ```
 
-Derleme başarılı olduğunda `target/` klasöründe `devops-01-docker-hello-1.0.7.jar` dosyası oluşur.
+Derleme başarılı olduğunda `target/` klasöründe `devops-01-docker-hello-1.0.1.jar` dosyası oluşur.
 
 Uygulamayı doğrudan çalıştırmak için:
 
 ```bash
-java -jar target/devops-01-docker-hello-1.0.7.jar
+java -jar target/devops-01-docker-hello-1.0.1.jar
 ```
 
 Uygulama `http://localhost:8080` adresinde ayağa kalkar.
